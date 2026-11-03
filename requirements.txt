@@ -1,0 +1,7 @@
+requests
+urllib3
+pandas
+sqlalchemy
+mysql-connector-python
+python-dotenv
+schedule
